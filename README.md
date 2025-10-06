@@ -113,7 +113,7 @@ Our project also considers real-world sensor integration for future deployments:
 | Power            | Battery + Piezo      | Optional solar panel                     |
 | Adhesion         | Attachment           | Silicone pad, tear-drop profile         |
 
-<img width="1983" height="1284" alt="image" src="https://github.com/user-attachments/assets/50523246-7c16-4d6d-86ca-dbac815fb8c0" />
+<img width="6000" height="3375" alt="Workflow (5)" src="https://github.com/user-attachments/assets/c6976419-7d4e-4ee6-a7ff-74954f4a335b" />
 
 
 ---
