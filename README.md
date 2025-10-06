@@ -113,7 +113,8 @@ Our project also considers real-world sensor integration for future deployments:
 | Power            | Battery + Piezo      | Optional solar panel                     |
 | Adhesion         | Attachment           | Silicone pad, tear-drop profile         |
 
-*Insert here: `sensor_diagram.png` — Illustration of sensor setup on tagged shark.*
+<img width="1983" height="1284" alt="image" src="https://github.com/user-attachments/assets/50523246-7c16-4d6d-86ca-dbac815fb8c0" />
+
 
 ---
 
