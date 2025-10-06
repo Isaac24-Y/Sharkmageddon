@@ -46,7 +46,8 @@ We incorporated multiple global and oceanographic datasets to build a comprehens
 - **Sea Surface Temperature**  
   - Microsoft Planetary dataset
 
-*Insert here: `datasets_summary.png` — Overview table or visualization of datasets.*
+<img width="950" height="547" alt="image" src="https://github.com/user-attachments/assets/296676ec-5008-46bb-93f6-7171ad1cfb9a" />
+
 
 ---
 
