@@ -20,7 +20,6 @@
 
 "Sharkmageddon" is a data-driven project aiming to predict the probability of shark presence in specific ocean regions. Using environmental datasets, satellite-derived measurements, and historical shark tracking data, we generate probabilistic models to estimate where sharks are most likely to be. The project combines Monte Carlo simulations, Markov chains, and probabilistic neural networks (PNN) to simulate shark movements and predict potential areas of presence. These predictions are intended to enhance both scientific understanding and real-time monitoring using sensor-equipped buoys and tagged sharks.
 
-*Insert here: `project_overview.png` — A conceptual diagram of Sharkmageddon workflow.*
 
 ---
 
