@@ -80,14 +80,16 @@ Our methodology integrates environmental variables, shark tracking, and probabil
    - Evaluate KDE on the regular lat-lon grid to obtain a probability of shark presence per cell.  
    - Apply corrections to consider water-only cells, ignoring land areas.  
 
-*Insert here: `probability_map.png` — Heatmap of shark presence probability.*
+<img width="910" height="651" alt="image" src="https://github.com/user-attachments/assets/45900eff-f079-473b-8d2f-5c6b150d747e" />
+
 
 6. **Probabilistic Neural Network (PNN) Integration**  
    - Train a PNN using KDE-derived probabilities and environmental features.  
    - Estimate the probability and standard deviation of shark presence per cell.  
    - Monte Carlo or particle filter simulations can then generate potential shark trajectories for analysis.
 
-*Insert here: `pnn_output.png` — Visualization of PNN predictions with uncertainty.*
+![Imagen de WhatsApp 2025-10-05 a las 18 49 37_2ee4667d](https://github.com/user-attachments/assets/6e6b7696-9a57-4cfa-8470-061756bb2d4f)
+
 
 7. **Model Validation**  
    - Compare model predictions with OCEARCH tracking data.  
