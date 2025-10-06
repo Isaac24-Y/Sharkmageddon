@@ -61,7 +61,7 @@ Our methodology integrates environmental variables, shark tracking, and probabil
    - Filter and clean data, retaining latitude, longitude, chlorophyll concentration (CHL), phytoplankton absorption (IOP), temperature (Temp), and timestamped shark positions.
 
 2. **Grid Generation**  
-   - Divide the study area (lat: 5–45°, lon: -100 to -45°) into regular grids (e.g., 20×20 cells, each ~10×10 km).  
+   - Divide the study area (lat: 5 to –45°, lon: -100 to -45°) into regular grids (e.g., 20×20 cells, each ~10×10 km).  
    - Calculate average environmental features per grid, including CHL, IOP, Temp, and ocean current directions.
 <img width="1790" height="877" alt="image" src="https://github.com/user-attachments/assets/c182c729-09fc-48ec-be1b-fb7fba18d286" />
 
