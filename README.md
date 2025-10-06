@@ -99,7 +99,9 @@ Our methodology integrates environmental variables, shark tracking, and probabil
 
 ### **Sensors Integration**
 
-Our project also considers real-world sensor integration for future deployments:
+Our project also considers real-world sensor integration for future deployments on sharks. The proposed device has a V-shaped design, which improves hydrodynamics and stability during swimming, reducing drag and allowing for more natural shark movement. The structure is made from biocompatible materials, ensuring safe and temporary attachment without harming the animal.
+
+The dual-arm V configuration also allows sensors to capture data from multiple directions, improving spatial coverage for acoustic and movement measurements. This setup enables a richer understanding of the shark’s surroundings, including environmental changes, sound sources, and behavioral patterns.
 
 | Component        | Purpose               | Design Notes                            |
 | ---------------- | ------------------- | --------------------------------------- |
