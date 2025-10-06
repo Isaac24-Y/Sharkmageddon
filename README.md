@@ -75,23 +75,17 @@ Our methodology integrates environmental variables, shark tracking, and probabil
    - Combine real shark tracking data and Monte Carlo-generated points.  
    - Scale all features using MinMaxScaler for consistency.  
    - Use Kernel Density Estimation (KDE) for positive (shark) and negative (non-shark) points to estimate probability densities.
+   - 
+<img width="910" height="651" alt="image" src="https://github.com/user-attachments/assets/45900eff-f079-473b-8d2f-5c6b150d747e" />
 
 5. **Probability Estimation on Grids**  
    - Evaluate KDE on the regular lat-lon grid to obtain a probability of shark presence per cell.  
    - Apply corrections to consider water-only cells, ignoring land areas.  
 
-<img width="910" height="651" alt="image" src="https://github.com/user-attachments/assets/45900eff-f079-473b-8d2f-5c6b150d747e" />
-
-
-6. **Probabilistic Neural Network (PNN) Integration**  
-   - Train a PNN using KDE-derived probabilities and environmental features.  
-   - Estimate the probability and standard deviation of shark presence per cell.  
-   - Monte Carlo or particle filter simulations can then generate potential shark trajectories for analysis.
-
 ![Imagen de WhatsApp 2025-10-05 a las 18 49 37_2ee4667d](https://github.com/user-attachments/assets/6e6b7696-9a57-4cfa-8470-061756bb2d4f)
 
 
-7. **Model Validation**  
+6. **Model Validation**  
    - Compare model predictions with OCEARCH tracking data.  
    - Adjust KDE bandwidth, grid resolution, and Markov transition probabilities to improve accuracy.
 
