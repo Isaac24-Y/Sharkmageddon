@@ -27,10 +27,12 @@
 
 We incorporated multiple global and oceanographic datasets to build a comprehensive model:
 
-- **MODIS Ocean Color and SST Products**  
+- **MODIS**  
   - Chlorophyll concentration  
   - Phytoplankton absorption at 443 nm  
   [MODIS Data Portal](http://oceancolor.gsfc.nasa.gov/)
+
+<img width="1206" height="636" alt="image" src="https://github.com/user-attachments/assets/3c89f92d-96d6-408f-b276-2e2ef306aa85" />
 
 - **SWOT Mission Data Products**  
   - Simulated sea surface height (SSH) from ECCO LLC4320  
