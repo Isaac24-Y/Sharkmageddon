@@ -120,5 +120,6 @@ Our project also considers real-world sensor integration for future deployments:
 ### **Summary**
 
 This approach combines satellite and in-situ data, Monte Carlo simulations, probabilistic modeling, and neural network predictions to identify potential shark habitats. The integration of sensors and environmental features allows for high-resolution probabilistic predictions, which can guide conservation, research, and safety operations in oceanic regions.  
+
 <img width="1920" height="1080" alt="Workflow" src="https://github.com/user-attachments/assets/e117e12c-c3de-4cb4-ae4e-43bea5b81dcc" />
 
