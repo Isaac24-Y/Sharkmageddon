@@ -75,7 +75,7 @@ Our methodology integrates environmental variables, shark tracking, and probabil
    - Combine real shark tracking data and Monte Carlo-generated points.  
    - Scale all features using MinMaxScaler for consistency.  
    - Use Kernel Density Estimation (KDE) for positive (shark) and negative (non-shark) points to estimate probability densities.
-   - 
+     
 <img width="910" height="651" alt="image" src="https://github.com/user-attachments/assets/45900eff-f079-473b-8d2f-5c6b150d747e" />
 
 5. **Probability Estimation on Grids**  
