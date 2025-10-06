@@ -62,14 +62,14 @@ Our methodology integrates environmental variables, shark tracking, and probabil
    - Divide the study area (lat: 5–45°, lon: -100 to -45°) into regular grids (e.g., 20×20 cells, each ~10×10 km).  
    - Calculate average environmental features per grid, including CHL, IOP, Temp, and ocean current directions.
 
-*Insert here: `grid_map.png` — Visualization of the study area divided into grids.*
 
 3. **Monte Carlo Simulation**  
    - Generate random points over water regions only, avoiding land.  
    - Simulate potential shark positions using Markov chains and observed transition probabilities between grid cells.  
    - For each point, associate environmental features based on grid averages.  
 
-*Insert here: `monte_carlo_points.png` — Example of simulated shark points over water.*
+<img width="794" height="653" alt="image" src="https://github.com/user-attachments/assets/ab66121f-e3ab-4b77-8a41-40d617f34968" />
+
 
 4. **Probabilistic Modeling**  
    - Combine real shark tracking data and Monte Carlo-generated points.  
