@@ -35,7 +35,7 @@
   - [SWOT L2 KaRIn Low Rate SSH, Version C](https://podaac.jpl.nasa.gov/dataset/SWOT_L2_LR_SSH_2.0)  
     Global SSH and wave height observations from the Ka-band Radar Interferometer (KaRIn).
 
-Other data sources:  
+Principal datasets used:  
 - **MODIS**: [Chlorophyll concentration](https://oceandata.sci.gsfc.nasa.gov/l3/) and [Phytoplankton absorption at 443 nm](https://oceandata.sci.gsfc.nasa.gov/l3/)  
 - **OCEARCH** shark tracking  
 - **Sea Surface Temperature** from Microsoft Planetary
